@@ -18,7 +18,7 @@ import java.sql.SQLException;
 import java.sql.Timestamp;
 import java.util.Date;
 
-
+//
 public class TicketDAO {
 	private static final Logger logger = LogManager.getLogger("TicketDAO");
 	public DataBaseConfig dataBaseConfig = new DataBaseConfig();
